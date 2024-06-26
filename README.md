@@ -20,7 +20,7 @@
 following format. Answer the following questions using List data structure.
 
 ##### Student Round 1 Round 2
-##### A &emsp; &emsp; &emsp; &emsp; 95 &emsp; &emsp; &emsp; &emsp; 90
+##### A &emsp; &emsp; &emsp;  95 &emsp; &emsp; &emsp; &emsp; 90
 ##### B &emsp; &emsp; &emsp; &emsp; 78 &emsp; &emsp; &emsp; &emsp; 85
 ##### C &emsp; &emsp; &emsp; &emsp; 85 &emsp; &emsp; &emsp; &emsp; 88
 ##### D &emsp; &emsp; &emsp; &emsp; 62 &emsp; &emsp; &emsp; &emsp; 75
